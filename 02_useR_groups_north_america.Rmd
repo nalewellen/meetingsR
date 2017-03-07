@@ -31,6 +31,10 @@ knit: "bookdown::preview_chapter"
 
   * Phoenix: [Phoenix R Programmers](http://rphx.wordpress.com/)
 
+#### Arkansas {-}
+
+  * Little Rock: [Little Rock R User Group](https://www.meetup.com/Central-Arkansas-R-User-Group/)
+
 #### California {-}
 
   * Berkeley: [The Berkeley R Language Beginner Study Group](https://www.meetup.com/r-enthusiasts/)
